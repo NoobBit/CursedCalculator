@@ -2,7 +2,9 @@
 All rights reserved
 
 Install:
-Right Click The File CursedCalculator - Installer.zip
+Click the Download code button
+Goto the File
+Right click the .zip file you downloaded
 Click Extract All
 Click next
 Done.
